@@ -1,0 +1,22 @@
+
+.signup{
+    display:flex;
+    align-content: center;
+    justify-content: space-between;
+    width: 50%;
+}
+.signupimg{
+    object-position: top right;
+margin-right: 30%; 
+margin-top: 30%;
+}
+.signuptext{
+    text-align: center;
+    float: right;
+}
+.signupform{
+    padding-right: 50px;
+}
+#signupaccount{
+    color: blue;
+}
